@@ -1,0 +1,10 @@
+@-mytunnel-id
+
+id-12
+hostddns-us
+62248728
+
+116
+90
+180
+116
